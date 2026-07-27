@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "okx-agent-payments-protocol": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-agent-payments-protocol/SKILL.md",
+      "computedHash": "7ff5a78d19194e7183cdc65f84be557200b17e776c3864d116630b8ad255af09"
+    },
+    "okx-agentic-wallet": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-agentic-wallet/SKILL.md",
+      "computedHash": "2dcc06d612684723f518ca91178681c90fd12b8a514cc93331314ba4cd235cca"
+    },
+    "okx-ai": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-ai/SKILL.md",
+      "computedHash": "91fa627919bf79c0754518f6c33283fb9193d1d88d5f2c559f8e78761ec9226d"
+    },
+    "okx-dapp-discovery": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-dapp-discovery/SKILL.md",
+      "computedHash": "59f5ff8f9959ab271a31bf558b38df6287668f546dd64e81849d1f9c663577c6"
+    },
+    "okx-defi": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-defi/SKILL.md",
+      "computedHash": "25e4e03fbadfe26e62629c63b3c9fc8426ea192a69c0cf025f6f868f74b1d8e8"
+    },
+    "okx-dex-market": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-dex-market/SKILL.md",
+      "computedHash": "175721d8927ff2a4deb549c1dfc50cd8af44b7395ad9bf6615979188c4691358"
+    },
+    "okx-growth-competition": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-growth-competition/SKILL.md",
+      "computedHash": "5556a1706bee0a09f561e9578dfbb274fd2401eaed29a85d3a97604d391ef1ce"
+    },
+    "okx-guide": {
+      "source": "okx/onchainos-skills",
+      "sourceType": "github",
+      "skillPath": "skills/okx-guide/SKILL.md",
+      "computedHash": "4d2af1c20d426a924eb331cacdcc26d613e9783463e3ea831d5a72dad2cb3d82"
+    }
+  }
+}
